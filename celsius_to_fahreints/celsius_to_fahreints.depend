@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688206400 source:c:\users\user\desktop\c programming\c\celsius_to_fahreints\main.c
+	<stdio.h>
+	<stdlib.h>
+
