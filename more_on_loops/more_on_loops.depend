@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689846701 source:c:\users\user\desktop\c programming\c\more_on_loops\main.c
+	<stdio.h>
+	<stdlib.h>
+

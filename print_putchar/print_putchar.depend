@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1689666740 source:c:\users\user\desktop\c programming\c\print_putchar\main.c
+	<unistd.h>
+	"main.h"
+
+1689666797 c:\users\user\desktop\c programming\c\print_putchar\main.h
+
+1689667700 source:c:\users\user\desktop\c programming\c\print_putchar\_putchar.c
+	<unistd.h>
+

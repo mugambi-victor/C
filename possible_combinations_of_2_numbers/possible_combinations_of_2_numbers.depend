@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690288498 source:c:\users\user\desktop\c programming\c\possible_combinations_of_2_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
