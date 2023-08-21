@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1692635432 source:c:\users\user\desktop\c programming\c\newprintf\_printf.c
+	"main.h"
+
+1692636110 c:\users\user\desktop\c programming\c\newprintf\main.h
+	<stdarg.h>
+	<stdio.h>
+	<unistd.h>
+
+1692635252 source:c:\users\user\desktop\c programming\c\newprintf\main.c
+	<limits.h>
+	<stdio.h>
+	"main.h"
+
+1692636375 source:c:\users\user\desktop\c programming\c\newprintf\funcs.c
+	"main.h"
+
+1692636120 source:c:\users\user\desktop\c programming\c\newprintf\handle_print.c
+	"main.h"
+
+1692635365 source:c:\users\user\desktop\c programming\c\newprintf\utils.c
+	"main.h"
+
+1692636044 source:c:\users\user\desktop\c programming\c\newprintf\get_precision.c
+	"main.h"
+
+1692636044 source:c:\users\user\desktop\c programming\c\newprintf\get_width.c
+	"main.h"
+
+1692636375 source:c:\users\user\desktop\c programming\c\newprintf\func2.c
+	"main.h"
+
+1692636044 source:c:\users\user\desktop\c programming\c\newprintf\get_flags.c
+	"main.h"
+
+1692636044 source:c:\users\user\desktop\c programming\c\newprintf\get_size.c
+	"main.h"
+
+1692636044 source:c:\users\user\desktop\c programming\c\newprintf\write_handlers.c
+	"main.h"
+
+1692636375 source:c:\users\user\desktop\c programming\c\newprintf\func3.c
+	"main.h"
+

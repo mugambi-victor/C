@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692084392 source:c:\users\user\desktop\c programming\c\preprocessors_macros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"0-object_like_macro.h"
+	"3-function_like_macro.h"
+
+1692083737 c:\users\user\desktop\c programming\c\preprocessors_macros\0-object_like_macro.h
+
+1692084500 c:\users\user\desktop\c programming\c\preprocessors_macros\3-function_like_macro.h
+

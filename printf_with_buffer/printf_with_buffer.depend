@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1692616485 source:c:\users\user\desktop\c programming\c\printf_with_buffer\handle_buffer.c
+	"main.h"
+
+1692617645 c:\users\user\desktop\c programming\c\printf_with_buffer\main.h
+	<stdarg.h>
+	<unistd.h>
+	<stdlib.h>
+
+1692616485 source:c:\users\user\desktop\c programming\c\printf_with_buffer\print_buf.c
+	"main.h"
+
+1692616654 source:c:\users\user\desktop\c programming\c\printf_with_buffer\_printf.c
+	"main.h"
+
+1692617685 source:c:\users\user\desktop\c programming\c\printf_with_buffer\get_print_function.c
+	"main.h"
+
+1692617664 source:c:\users\user\desktop\c programming\c\printf_with_buffer\ev_print_func.c
+	"main.h"
+
+1692618220 source:c:\users\user\desktop\c programming\c\printf_with_buffer\print_chr.c
+	"main.h"
+	<stdio.h>
+
+1692618420 source:c:\users\user\desktop\c programming\c\printf_with_buffer\print_binary.c
+	"main.h"
+
+1692617749 source:c:\users\user\desktop\c programming\c\printf_with_buffer\print_int.c
+	"main.h"
+
+1692618220 source:c:\users\user\desktop\c programming\c\printf_with_buffer\print_str.c
+	"main.h"
+

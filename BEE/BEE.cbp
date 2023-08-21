@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="creating_myown_putchar" />
+		<Option title="BEE" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/creating_myown_putchar" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/BEE" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/creating_myown_putchar" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/BEE" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,22 +31,34 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="3-factorial.c">
+		<Unit filename="MAINW.H" />
+		<Unit filename="_printf.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="_print_rev_recursion.c">
+		<Unit filename="_write_char.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="_putchar.c">
+		<Unit filename="bases.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="_puts_recursion.c">
+		<Unit filename="format_specifier.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.h" />
-		<Extensions />
+		<Unit filename="parser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="support_funcs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

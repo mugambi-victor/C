@@ -7,13 +7,17 @@
 
 int main()
 {
-    char c;
-     c='a';
+    //char c;
+    /*c='a';
      while(c<='z')
      {
          _putchar(c);
          c++;
-     }
-
+     }*/
+    // _puts_recursion("the quick brown fox");
+    _print_rev_recursion("the");
+    int f;
+    f=factorial(5);
+    printf("%d",f);
     return 0;
 }

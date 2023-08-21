@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1692621726 source:c:\users\user\desktop\c programming\c\bee\_printf.c
+	"main.h"
+
+1692621763 c:\users\user\desktop\c programming\c\bee\main.h
+	<unistd.h>
+	<stdlib.h>
+	<stdarg.h>
+
+1692620369 source:c:\users\user\desktop\c programming\c\bee\_write_char.c
+	"main.h"
+
+1692622826 source:c:\users\user\desktop\c programming\c\bee\main.c
+	"main.h"
+
+1692620369 source:c:\users\user\desktop\c programming\c\bee\parser.c
+	"main.h"
+
+1692621726 source:c:\users\user\desktop\c programming\c\bee\format_specifier.c
+	"main.h"
+
+1692621832 source:c:\users\user\desktop\c programming\c\bee\print_number.c
+	"main.h"
+
+1692622826 source:c:\users\user\desktop\c programming\c\bee\bases.c
+	"main.h"
+	<stdio.h>
+

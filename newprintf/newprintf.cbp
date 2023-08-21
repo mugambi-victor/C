@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="creating_myown_putchar" />
+		<Option title="newprintf" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/creating_myown_putchar" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/newprintf" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/creating_myown_putchar" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/newprintf" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,22 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="3-factorial.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="_print_rev_recursion.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="_putchar.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="_puts_recursion.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="main.h" />
-		<Extensions />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

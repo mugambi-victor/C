@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1692613041 source:c:\users\user\desktop\c programming\c\my_own_printf\_printf.c
+	"main.h"
+
+1692614181 c:\users\user\desktop\c programming\c\my_own_printf\main.h
+	<unistd.h>
+	<stdlib.h>
+	<stdarg.h>
+
+1692611799 source:c:\users\user\desktop\c programming\c\my_own_printf\main.c
+	"main.h"
+
+1692609631 source:c:\users\user\desktop\c programming\c\my_own_printf\format_specifiers.c
+	"main.h"
+
+1692602351 source:c:\users\user\desktop\c programming\c\my_own_printf\parser.c
+	"main.h"
+
+1692339583 source:c:\users\user\desktop\c programming\c\my_own_printf\_write_char.c
+	"main.h"
+
+1692600984 source:c:\users\user\desktop\c programming\c\my_own_printf\print_number.c
+	"main.h"
+
+1692600902 source:c:\users\user\desktop\c programming\c\my_own_printf\_print_char.c
+	"main.h"
+
+1692604756 source:c:\users\user\desktop\c programming\c\my_own_printf\bases.c
+	"main.h"
+	<stdio.h>
+
+1692606746 source:c:\users\user\desktop\c programming\c\my_own_printf\help_functions.c
+	"main.h"
+	<stdio.h>
+
